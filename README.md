@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ForisGrancj
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#,SQL,JAVA,UNİTY,HTML,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kurtulusoguzhan@outlook.com
 
